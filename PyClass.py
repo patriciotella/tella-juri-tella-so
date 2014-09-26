@@ -4,7 +4,7 @@ class PyClass:
         self
 
     def algo(self):
-        print('Pato quiere pucho!!')
+        print('Pato tiene pucho!!')
 
 p = PyClass()
 p.algo()
